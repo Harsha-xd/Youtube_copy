@@ -100,5 +100,10 @@ YouTube-Clone/
 * Implement dark mode
 * Add hover animations
 
+---
+
+## 👤 Author
+
 **Harsha**
 Front-End Developer (Beginner)
+---
